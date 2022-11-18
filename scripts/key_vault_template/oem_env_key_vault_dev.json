@@ -1,0 +1,136 @@
+{
+  "environmentVariables": [
+    {
+      "name": "APP_SECRET_VALUE",
+      "value": "47ba3c24-1d21-42e4-be41-60d8b904d074"
+    },
+    {
+      "name": "RN_APPLICATION_API_ID",
+      "value": "09446da2-3db4-41f7-945d-2acd3fb0de6f"
+    },
+    {
+      "name": "RN_GEOLOCATION_KEY",
+      "value": "78800128c4936a6b1c80e5893125c31fa93dad1e4965c28e97761f21f32f2ab7"
+    },
+    {
+      "name": "RN_B2C_APP_ID",
+      "value": "09446da2-3db4-41f7-945d-2acd3fb0de6f"
+    },
+    {
+      "name": "RN_BUGSNAG_KEY",
+      "value": "9ac5afa966f120577851c2fd33bde1e0"
+    },
+    {
+      "name": "RN_ANDROID_CODEPUSH_KEY",
+      "value": "tsxsszb7T6r62i4nv_KF1MU7wO-m5v9VqEEsl"
+    },
+    {
+      "name": "RN_IOS_CODEPUSH_KEY",
+      "value": "wnqD1xuXUab3D4AgiLVM4yyM-K5InRkwCtIsh"
+    },
+    {
+      "name": "RN_UXCAM_APP_KEY",
+      "value": "umtz6bv4uyf3aip"
+    },
+    {
+      "name": "IOS_GOOGLE_JSON",
+      "value": "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!DOCTYPE plist PUBLIC \"-//Apple//DTD PLIST 1.0//EN\" \"http://www.apple.com/DTDs/PropertyList-1.0.dtd\"> <plist version=\"1.0\"> <dict> <key>CLIENT_ID</key> <string>467570633255-9avbahf794vdtaall4abin8igdhg7jea.apps.googleusercontent.com</string> <key>REVERSED_CLIENT_ID</key> <string>com.googleusercontent.apps.467570633255-9avbahf794vdtaall4abin8igdhg7jea</string> <key>API_KEY</key> <string>AIzaSyCznBF3h3mWlnWR30tb0WF6WH_T2MUNIfA</string> <key>GCM_SENDER_ID</key> <string>467570633255</string> <key>PLIST_VERSION</key> <string>1</string> <key>BUNDLE_ID</key> <string>com.powerprodllc.HarrisBoats</string> <key>PROJECT_ID</key> <string>back-end-non-prod</string> <key>STORAGE_BUCKET</key> <string>back-end-non-prod.appspot.com</string> <key>IS_ADS_ENABLED</key> <false></false> <key>IS_ANALYTICS_ENABLED</key> <false></false> <key>IS_APPINVITE_ENABLED</key> <true></true> <key>IS_GCM_ENABLED</key> <true></true> <key>IS_SIGNIN_ENABLED</key> <true></true> <key>GOOGLE_APP_ID</key> <string>1:467570633255:ios:1b62452f0c6f9e17f3bc02</string> <key>DATABASE_URL</key> <string>https://back-end-non-prod.firebaseio.com</string> </dict> </plist>"
+    },
+    {
+      "name": "GOOGLE_JSON",
+      "value": "{ \"project_info\": { \"project_number\": \"467570633255\", \"firebase_url\": \"https://back-end-non-prod.firebaseio.com\", \"project_id\": \"back-end-non-prod\", \"storage_bucket\": \"back-end-non-prod.appspot.com\" }, \"client\": [ { \"client_info\": { \"mobilesdk_app_id\": \"1:467570633255:android:1d209410b75e2b63f3bc02\", \"android_client_info\": { \"package_name\": \"com.coreapp\" } }, \"oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 } ], \"api_key\": [ { \"current_key\": \"AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw\" } ], \"services\": { \"appinvite_service\": { \"other_platform_oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 }, { \"client_id\": \"467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com\", \"client_type\": 2, \"ios_info\": { \"bundle_id\": \"com.powerprodllc.CoreApp\" } } ] } } }, { \"client_info\": { \"mobilesdk_app_id\": \"1:467570633255:android:ded19f84898fbd57f3bc02\", \"android_client_info\": { \"package_name\": \"com.engagebostonwhalerapp\" } }, \"oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 } ], \"api_key\": [ { \"current_key\": \"AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw\" } ], \"services\": { \"appinvite_service\": { \"other_platform_oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 }, { \"client_id\": \"467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com\", \"client_type\": 2, \"ios_info\": { \"bundle_id\": \"com.powerprodllc.CoreApp\" } } ] } } }, { \"client_info\": { \"mobilesdk_app_id\": \"1:467570633255:android:884a780a541cde4df3bc02\", \"android_client_info\": { \"package_name\": \"com.engageharrisboatsapp\" } }, \"oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 } ], \"api_key\": [ { \"current_key\": \"AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw\" } ], \"services\": { \"appinvite_service\": { \"other_platform_oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 }, { \"client_id\": \"467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com\", \"client_type\": 2, \"ios_info\": { \"bundle_id\": \"com.powerprodllc.CoreApp\" } } ] } } }, { \"client_info\": { \"mobilesdk_app_id\": \"1:467570633255:android:827cdf94f78697fdf3bc02\", \"android_client_info\": { \"package_name\": \"com.engagesearayapp\" } }, \"oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 } ], \"api_key\": [ { \"current_key\": \"AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw\" } ], \"services\": { \"appinvite_service\": { \"other_platform_oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 }, { \"client_id\": \"467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com\", \"client_type\": 2, \"ios_info\": { \"bundle_id\": \"com.powerprodllc.CoreApp\" } } ] } } }, { \"client_info\": { \"mobilesdk_app_id\": \"1:467570633255:android:46464824edd536d0\", \"android_client_info\": { \"package_name\": \"com.nauticon.nauticon\" } }, \"oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 } ], \"api_key\": [ { \"current_key\": \"AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw\" } ], \"services\": { \"appinvite_service\": { \"other_platform_oauth_client\": [ { \"client_id\": \"467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com\", \"client_type\": 3 }, { \"client_id\": \"467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com\", \"client_type\": 2, \"ios_info\": { \"bundle_id\": \"com.powerprodllc.CoreApp\" } } ] } } } ], \"configuration_version\": \"1\" }"
+    },
+    {
+      "name": "RN_DEEP_LINK_PATH",
+      "value": "/harrisBoats"
+    },
+    {
+      "name": "RN_DEEP_LINK_PATH_NESTED",
+      "value": "/harrisBoats/.*"
+    },
+    {
+      "name": "RN_APPLICATION_NAME",
+      "value": "My Harris"
+    },
+    {
+      "name": "RN_BOAT_BRAND",
+      "value": "Harris Boats"
+    },
+    {
+      "name": "RN_BOAT_BRAND_SHORT",
+      "value": "HF"
+    },
+    {
+      "name": "RN_SHOP_URL",
+      "value": "https://www.harrisboatscollection.com/"
+    },
+    {
+      "name": "RN_SHOP_NAME",
+      "value": "Harris Boats Shop"
+    },
+    {
+      "name": "RN_WEBSITE",
+      "value": "harrisboats.com"
+    },
+    {
+      "name": "RN_WEBSITE_URL",
+      "value": "https://www.harrisboats.com/"
+    },
+    {
+      "name": "RN_B2C_AUTH_LOGIN_POLICY",
+      "value": "B2C_1A_CZoneHarris_SigninOidc"
+    },
+    {
+      "name": "RN_B2C_AUTH_PASSWORD_RESET_POLICY",
+      "value": "B2C_1A_CZoneHarris_PasswordResetOidc"
+    },
+    {
+      "name": "RN_B2C_AUTH_PASSWORD_CHANGE_POLICY",
+      "value": "B2C_1A_CZoneHarris_PasswordChangeOidc"
+    },
+    {
+      "name": "RN_OWNERSHIP_REQUEST_URL",
+      "value": "http://www.harrisboats.com/boat-access-app.html"
+    },
+    {
+      "name": "RN_BRAND_PHONE_NUMBER",
+      "value": "8664340765"
+    }
+  ],
+  "signed": true,
+  "testsEnabled": true,
+  "badgeIsEnabled": true,
+  "toolsets": {
+    "buildscripts": {
+      "package.json": {
+        "postBuild": "appcenter-post-build.sh",
+        "postClone": "appcenter-post-clone.sh",
+        "preBuild": "appcenter-pre-build.sh"
+      }
+    },
+    "javascript": {
+      "nodeVersion": "16.x",
+      "packageJsonPath": "package.json",
+      "runTests": true
+    },
+    "android": {
+      "module": "app",
+      "buildVariant": "release",
+      "isRoot": false,
+      "runTests": false,
+      "runLint": false,
+      "automaticSigning": false,
+      "buildBundle": true,
+      "gradleWrapperPath": "android/gradlew"
+    },
+    "xcode": {
+      "projectOrWorkspacePath": "ios/engageHarrisBoatsApp.xcworkspace",
+      "scheme": "engageHarrisBoatsApp",
+      "xcodeVersion": "13.1",
+      "podfilePath": "ios/Podfile"
+    }
+  },
+  "artifactVersioning": { 
+    "buildNumberFormat": "buildId"
+  }
+}

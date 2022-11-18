@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "467570633255",
+    "firebase_url": "https://back-end-non-prod.firebaseio.com",
+    "project_id": "back-end-non-prod",
+    "storage_bucket": "back-end-non-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467570633255:android:1d209410b75e2b63f3bc02",
+        "android_client_info": {
+          "package_name": "com.coreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.powerprodllc.CoreApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467570633255:android:ded19f84898fbd57f3bc02",
+        "android_client_info": {
+          "package_name": "com.engagebostonwhalerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.powerprodllc.CoreApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467570633255:android:827cdf94f78697fdf3bc02",
+        "android_client_info": {
+          "package_name": "com.engagesearayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.powerprodllc.CoreApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467570633255:android:46464824edd536d0",
+        "android_client_info": {
+          "package_name": "com.nauticon.nauticon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKqidkiYb8WzHUgeAmIrIYoVH8YSMtlsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467570633255-nipi18qphsgdm5jau6tphb8c9kee2q81.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "467570633255-4p9ht5e83he397h567ffq4lo4s92en6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.powerprodllc.CoreApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

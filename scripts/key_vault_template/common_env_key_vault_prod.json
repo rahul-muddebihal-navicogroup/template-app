@@ -1,0 +1,109 @@
+{
+  "trigger": "continuous",
+  "environmentVariables": [
+    {
+      "name": "RN_ENV",
+      "value": "prod"
+    },
+    {
+      "name": "RN_API_BASE_URL",
+      "value": "https://brunswick-prod.apigee.net/nautic-on/v2"
+    },
+    {
+      "name": "RN_REALM_APP_ID",
+      "value": "engageeurope-lijeg"
+    },
+    {
+      "name": "RN_REALM_AUTH_API_KEY",
+      "value": "DOFWOaGEByi5rwEdSU5hd9XU8VT6Bzac6rVHj0ubpKTzo7Rd6PRlU9QxPdv1GAFp"
+    },
+    {
+      "name": "RN_API_BASE_URL_AUTH",
+      "value": "https://brunswick-prod.apigee.net/nautic-on_noauth/v2"
+    },
+    {
+      "name": "RN_CAPTCHA_BASE_URL",
+      "value": "https://brunswick-prod.apigee.net"
+    },
+    {
+      "name": "RN_MQTT_SERVER_URL",
+      "value": "api.nautic-on.com/mqtt"
+    },
+    {
+      "name": "RN_MQTT_PORT",
+      "value": "8884"
+    },
+    {
+      "name": "RN_MQTT_PROTOCOL",
+      "value": "wss"
+    },
+    {
+      "name": "RN_MQTT_RECONNECT_PERIOD",
+      "value": "5000"
+    },
+    {
+      "name": "RN_DEEP_LINK_URL",
+      "value": "apps.czone.net"
+    },
+    {
+      "name": "RN_MONGO_SERVICE_NAME",
+      "value": "mongodb-atlas"
+    },
+    {
+      "name": "RN_MONGO_CUSTOM_USER_DATA_DB",
+      "value": "engage"
+    },
+    {
+      "name": "RN_MONGO_CUSTOM_USER_DATA_COLLECTION",
+      "value": "user"
+    },
+    {
+      "name": "RN_TRIP_MAX_DURATION",
+      "value": "21600"
+    },
+    {
+      "name": "RN_TRIP_MODAL_IDLE_DURATION",
+      "value": "7200"
+    },
+    {
+      "name": "RN_LOG_SEVERITY",
+      "value": "error"
+    },
+    {
+      "name": "RN_CAPTCHA_KEY",
+      "value": "6LfXzXwaAAAAAMqnbqHG9VDlWm0b-jLX2RDRNcKD"
+    },
+    {
+      "name": "RN_B2C_AUTH_REDIRECT_URI",
+      "value": "https://brunswickb2c.b2clogin.com/oauth2/nativeclient"
+    },
+    {
+      "name": "RN_B2C_AUTH_TENANT",
+      "value": "BrunswickB2C"
+    },
+    {
+      "name": "RN_ANDROID_GOOGLE_MAPS_KEY",
+      "value": "AIzaSyBdIstwwa4ITT3YG3v9s6E2ru6URayx7nM"
+    },
+    {
+      "name": "RN_IOS_GOOGLE_MAPS_KEY",
+      "value": "AIzaSyBK2YumVDsnFY-Q3IRa9gzNfRC8l3QIp70"
+    },
+    {
+      "name": "NPM_USER",
+      "value": "bconline"
+    },
+    {
+      "name": "NPM_PASS",
+      "value": "dG5xa3FpcDVsdGtuNjN3NWg3anNseGJubTJneWVseGVja3B6d2M0bXl5b2tyZ25rMzVzcQ=="
+    },
+    {
+      "name": "RN_BLE_FIRST_TIME_CONNECT",
+      "value": "10"
+    },
+    {
+      "name": "RN_BLE_RECONNECT",
+      "value": "3"
+    }
+  ]
+}

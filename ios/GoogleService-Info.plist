@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>467570633255-stqqk4sqkf8vqv2ri8unj7oea0rdgsjt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.467570633255-stqqk4sqkf8vqv2ri8unj7oea0rdgsjt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCznBF3h3mWlnWR30tb0WF6WH_T2MUNIfA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467570633255</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.powerprodllc.SeaRay</string>
+	<key>PROJECT_ID</key>
+	<string>back-end-non-prod</string>
+	<key>STORAGE_BUCKET</key>
+	<string>back-end-non-prod.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467570633255:ios:d2decec9048da963f3bc02</string>
+	<key>DATABASE_URL</key>
+	<string>https://back-end-non-prod.firebaseio.com</string>
+</dict>
+</plist>

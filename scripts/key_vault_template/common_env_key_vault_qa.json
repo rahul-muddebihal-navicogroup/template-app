@@ -1,0 +1,129 @@
+{
+  "trigger": "continuous",
+  "environmentVariables": [
+    {
+      "name": "RN_ENV",
+      "value": "qa"
+    },
+    {
+      "name": "VERSION_NAME",
+      "value": "1.4.0-qa"
+    },
+    {
+      "name": "RN_API_BASE_URL",
+      "value": "https://brunswick-test.apigee.net/nautic-on/v2"
+    },
+    {
+      "name": "RN_REALM_APP_ID",
+      "value": "engageeurope-lijeg"
+    },
+    {
+      "name": "RN_REALM_AUTH_API_KEY",
+      "value": "DOFWOaGEByi5rwEdSU5hd9XU8VT6Bzac6rVHj0ubpKTzo7Rd6PRlU9QxPdv1GAFp"
+    },
+    {
+      "name": "RN_API_BASE_URL_AUTH",
+      "value": "https://brunswick-test.apigee.net/nautic-on_noauth/v2"
+    },
+    {
+      "name": "RN_CAPTCHA_BASE_URL",
+      "value": "https://brunswick-test.apigee.net"
+    },
+    {
+      "name": "RN_MQTT_SERVER_URL",
+      "value": "test.api.nautic-on.com/mqtt"
+    },
+    {
+      "name": "RN_MQTT_PORT",
+      "value": "8884"
+    },
+    {
+      "name": "RN_MQTT_PROTOCOL",
+      "value": "wss"
+    },
+    {
+      "name": "RN_MQTT_RECONNECT_PERIOD",
+      "value": "5000"
+    },
+    {
+      "name": "RN_DEEP_LINK_URL",
+      "value": "apps.czone.net"
+    },
+    {
+      "name": "RN_MONGO_SERVICE_NAME",
+      "value": "mongodb-atlas"
+    },
+    {
+      "name": "RN_MONGO_CUSTOM_USER_DATA_DB",
+      "value": "engage"
+    },
+    {
+      "name": "RN_MONGO_CUSTOM_USER_DATA_COLLECTION",
+      "value": "user"
+    },
+    {
+      "name": "RN_TRIP_MAX_DURATION",
+      "value": "21600"
+    },
+    {
+      "name": "RN_TRIP_MODAL_IDLE_DURATION",
+      "value": "7200"
+    },
+    {
+      "name": "RN_LOG_SEVERITY",
+      "value": "error"
+    },
+    {
+      "name": "RN_CAPTCHA_KEY",
+      "value": "6LfXzXwaAAAAAMqnbqHG9VDlWm0b-jLX2RDRNcKD"
+    },
+    {
+      "name": "RN_B2C_AUTH_REDIRECT_URI",
+      "value": "https://brunswickb2ctest.b2clogin.com/oauth2/nativeclient"
+    },
+    {
+      "name": "RN_B2C_AUTH_TENANT",
+      "value": "BrunswickB2CTest"
+    },
+    {
+      "name": "RN_ANDROID_GOOGLE_MAPS_KEY",
+      "value": "AIzaSyBdIstwwa4ITT3YG3v9s6E2ru6URayx7nM"
+    },
+    {
+      "name": "RN_IOS_GOOGLE_MAPS_KEY",
+      "value": "AIzaSyBK2YumVDsnFY-Q3IRa9gzNfRC8l3QIp70"
+    },
+    {
+      "name": "NPM_USER",
+      "value": "bconline"
+    },
+    {
+      "name": "NPM_PASS",
+      "value": "dG5xa3FpcDVsdGtuNjN3NWg3anNseGJubTJneWVseGVja3B6d2M0bXl5b2tyZ25rMzVzcQ=="
+    },
+    {
+      "name": "RN_BLE_FIRST_TIME_CONNECT",
+      "value": "10"
+    },
+    {
+      "name": "RN_BLE_RECONNECT",
+      "value": "3"
+    },
+    {
+      "name": "RN_VERACODE_FILENAME",
+      "value": "engage-harris-boats.zip"
+    },
+    {
+      "name": "RN_VERACODE_API_KEY",
+      "value": "0ffe51d4f58d45328c34810c8098b22739a2a4a498922eca64350fa3c3ad3a61a98316a8fd6201839a5b3bfd0339b3f94f568fd42368b42a95eae7f1baeade47"
+    },
+    {
+      "name": "RN_VERACODE_API_ID",
+      "value": "3c1b15d44e254e5d0810c4b6d8d4bb09"
+    },
+    {
+      "name": "RN_VERACODE_APPNAME",
+      "value": "Engage-Harris-Boats"
+    }
+  ]
+}
